@@ -763,5 +763,283 @@
                 "url": "https://www.tiktok.com/@dinocattutu"
             }
         ]
+    },
+    {
+        "url": "https://dexscreener.com/bsc/0xc6f490889ff5abeba2657f4f8524d1c884b8ac91",
+        "chainId": "bsc",
+        "tokenAddress": "0xc6f490889FF5abeBA2657F4f8524d1C884b8Ac91",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xc6f490889ff5abeba2657f4f8524d1c884b8ac91.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xc6f490889ff5abeba2657f4f8524d1c884b8ac91/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xc6f490889ff5abeba2657f4f8524d1c884b8ac91?timestamp=1742206200000",
+        "description": "Hey, you know 'Salam'? It means 'peace' in Arabic. In crypto's crazy world, it's a good reminder to stay calm and patient. \n\nJust a peaceful mindset, you know?",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://www.bscsalam.fun/"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/salam_bsc"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/salam_bsc"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/solana/9cg5jdf5riex3ov5nqwvzw8cz5qyhufmrfmqsekbpump",
+        "chainId": "solana",
+        "tokenAddress": "9CG5JDF5RiEX3ov5NqwVZW8Cz5QyHufMrfmQsEkbpump",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/9CG5JDF5RiEX3ov5NqwVZW8Cz5QyHufMrfmQsEkbpump.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/solana/9CG5JDF5RiEX3ov5NqwVZW8Cz5QyHufMrfmQsEkbpump/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9CG5JDF5RiEX3ov5NqwVZW8Cz5QyHufMrfmQsEkbpump?timestamp=1742206200000",
+        "description": "Gaza Mode"
+    },
+    {
+        "url": "https://dexscreener.com/bsc/0x342f7334e4c1732ea753a597722e9c3d04bdcce7",
+        "chainId": "bsc",
+        "tokenAddress": "0x342f7334e4c1732ea753a597722e9c3d04bdcce7",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x342f7334e4c1732ea753a597722e9c3d04bdcce7.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x342f7334e4c1732ea753a597722e9c3d04bdcce7/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x342f7334e4c1732ea753a597722e9c3d04bdcce7?timestamp=1742206800000",
+        "description": "#EidMubarak - A crypto meme launched on four, now taken over and developed by the community!\n\u200b\n\u200b\n\u200b\n\n\n\n\n\n\u200b",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://www.eidmubarak.cloud/"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/BSC_EidMubarak"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/EidMubarakCTO"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/bsc/0xaa59f8d9616ac636b06d7249617ef5d86da50495",
+        "chainId": "bsc",
+        "tokenAddress": "0xaA59F8D9616AC636B06d7249617EF5D86DA50495",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xaa59f8d9616ac636b06d7249617ef5d86da50495.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xaa59f8d9616ac636b06d7249617ef5d86da50495/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xaa59f8d9616ac636b06d7249617ef5d86da50495?timestamp=1742206800000",
+        "description": "$SHEIKH CZ, King of Binance, trades lambos for lambos, speards \"Mubarak\" \n\nSalaamu alaykum \ud83d\udc73\ud83c\udffb\u200d\u2642\ufe0f\ud83d\udd38",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://four.meme/token/0xaa59f8d9616ac636b06d7249617ef5d86da50495"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/SheikhCZ_hq"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/sheikhczbnb"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/solana/9n2cg1bfgwm8sbdq8q3m9spxrmqtp5hbztxek2hdaevp",
+        "chainId": "solana",
+        "tokenAddress": "9n2CG1BFgwm8SBdQ8Q3M9SpxRMQTp5HBZTXEk2HdAeVp",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/9n2CG1BFgwm8SBdQ8Q3M9SpxRMQTp5HBZTXEk2HdAeVp.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/solana/9n2CG1BFgwm8SBdQ8Q3M9SpxRMQTp5HBZTXEk2HdAeVp/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9n2CG1BFgwm8SBdQ8Q3M9SpxRMQTp5HBZTXEk2HdAeVp?timestamp=1742207100000",
+        "description": "Inherit the Doge spirit and head for the moon with Elon Musk!",
+        "links": [
+            {
+                "label": "Website",
+                "url": "http://thedogebaby.com"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/DogeBaby_SOL"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/DogeBaby_Official"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/bsc/0x2f73561df68b88f1b1e8fadafae54381cfaaf218",
+        "chainId": "bsc",
+        "tokenAddress": "0x2f73561df68b88f1b1e8fadafae54381cfaaf218",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x2f73561df68b88f1b1e8fadafae54381cfaaf218.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x2f73561df68b88f1b1e8fadafae54381cfaaf218/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x2f73561df68b88f1b1e8fadafae54381cfaaf218?timestamp=1742207700000",
+        "description": "",
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://x.com/DeerFiCTO"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/DeerFi_CTO"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/base/0x0534246eb7bf53c60b647cdb12419f5feca63f74",
+        "chainId": "base",
+        "tokenAddress": "0x0534246eb7bf53c60b647cdb12419f5feca63f74",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/base/0x0534246eb7bf53c60b647cdb12419f5feca63f74.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/base/0x0534246eb7bf53c60b647cdb12419f5feca63f74/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x0534246eb7bf53c60b647cdb12419f5feca63f74?timestamp=1742209500000",
+        "description": "Fake Market CAP $CAP is a conceptual artwork about the speculative crypto currency market and meme coins by Sterling Crispin.",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://fakemarketcap.org/"
+            },
+            {
+                "label": "Docs",
+                "url": "https://warpcast.com/fakemarketcap"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/bsc/0xce33defefac76bf36367d0640b5079bb3065e9d7",
+        "chainId": "bsc",
+        "tokenAddress": "0xcE33deFeFAC76BF36367D0640B5079bb3065e9D7",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xce33defefac76bf36367d0640b5079bb3065e9d7.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xce33defefac76bf36367d0640b5079bb3065e9d7/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xce33defefac76bf36367d0640b5079bb3065e9d7?timestamp=1742209500000",
+        "description": "The prototype character of Mubarak.",
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://x.com/Mansabsc"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/mansabsc"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/solana/mx4mte83xejnsraplhrgrao6yuhvk1hdknyr95hpump",
+        "chainId": "solana",
+        "tokenAddress": "mx4Mte83XEjnsraPLHrGrao6YUHvK1HDKnyr95hpump",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/mx4Mte83XEjnsraPLHrGrao6YUHvK1HDKnyr95hpump.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/solana/mx4Mte83XEjnsraPLHrGrao6YUHvK1HDKnyr95hpump/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/mx4Mte83XEjnsraPLHrGrao6YUHvK1HDKnyr95hpump?timestamp=1742210100000",
+        "description": "Habibi",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://habibicatsol.fun"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/ItsHabibiCat"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/ItsHabibiCat"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/solana/rq77s9pqsuezamaj2taymtrppehsbieuhes4xvlpump",
+        "chainId": "solana",
+        "tokenAddress": "RQ77S9pqSueZAmaJ2TAymtrpPEHSbiEuheS4xvLpump",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/RQ77S9pqSueZAmaJ2TAymtrpPEHSbiEuheS4xvLpump.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/solana/RQ77S9pqSueZAmaJ2TAymtrpPEHSbiEuheS4xvLpump/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/RQ77S9pqSueZAmaJ2TAymtrpPEHSbiEuheS4xvLpump?timestamp=1742211300000",
+        "description": "I want you to hold",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://www.unclesamcto.lol/"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/UncleSamSOL_cto"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/SamSol_cto"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/solana/gmksqsayfnxeye7czn17cvk94j5sqgnfag7vn3sspump",
+        "chainId": "solana",
+        "tokenAddress": "GmksqsAYfNxEYE7czn17cvk94J5SQGNFaG7vN3Sspump",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/GmksqsAYfNxEYE7czn17cvk94J5SQGNFaG7vN3Sspump.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/solana/GmksqsAYfNxEYE7czn17cvk94J5SQGNFaG7vN3Sspump/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GmksqsAYfNxEYE7czn17cvk94J5SQGNFaG7vN3Sspump?timestamp=1742211300000",
+        "description": "This coin will cost 0.1 cent 1 April",
+        "links": [
+            {
+                "type": "telegram",
+                "url": "https://t.me/newsstandart"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/ethereum/0x3e7ee89de65b3ae7a5bc8f1eaac364cb705ba930",
+        "chainId": "ethereum",
+        "tokenAddress": "0x3e7ee89de65b3ae7a5bc8f1eaac364cb705ba930",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x3e7ee89de65b3ae7a5bc8f1eaac364cb705ba930.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x3e7ee89de65b3ae7a5bc8f1eaac364cb705ba930/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x3e7ee89de65b3ae7a5bc8f1eaac364cb705ba930?timestamp=1742211600000",
+        "description": "",
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://x.com/googlejapan/status/1901574230573015501"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/Moomin_Portal"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/solana/2lfvry5pvoduycwxdzu71t3cw5ps5lqwjrfqdb3ypump",
+        "chainId": "solana",
+        "tokenAddress": "2LFvrY5PVoDUYcWxDzu71t3cW5pS5LQwjrFQDB3Ypump",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/2LFvrY5PVoDUYcWxDzu71t3cW5pS5LQwjrFQDB3Ypump.png",
+        "header": "https://dd.dexscreener.com/ds-data/tokens/solana/2LFvrY5PVoDUYcWxDzu71t3cW5pS5LQwjrFQDB3Ypump/header.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2LFvrY5PVoDUYcWxDzu71t3cW5pS5LQwjrFQDB3Ypump?timestamp=1742211600000",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://dohabionsol.fun/"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/dog_habibi"
+            },
+            {
+                "type": "telegram",
+                "url": "https://t.me/DogHabibi"
+            }
+        ]
+    },
+    {
+        "url": "https://dexscreener.com/base/0x120c115d7de9b522e7ce1242cdfa9f787b1d1443",
+        "chainId": "base",
+        "tokenAddress": "0x120C115d7de9B522e7CE1242cDfA9F787b1D1443",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/base/0x120c115d7de9b522e7ce1242cdfa9f787b1d1443.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x120c115d7de9b522e7ce1242cdfa9f787b1d1443?timestamp=1742211900000",
+        "description": "Carefully curating thoughtful, long-lasting AI models that beautifully embody diversity",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://www.theclueless.ai/"
+            },
+            {
+                "type": "twitter",
+                "url": "https://x.com/thecluelessai?s=21"
+            }
+        ]
     }
 ]
