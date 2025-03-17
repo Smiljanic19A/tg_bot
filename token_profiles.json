@@ -749,5 +749,19 @@
                 "url": "https://x.com/subhanallah_bsc"
             }
         ]
+    },
+    {
+        "url": "https://dexscreener.com/solana/cvhnlbituwmq9p8n3mabuq9dnnb6srwnuiwb8hngpump",
+        "chainId": "solana",
+        "tokenAddress": "CVHNLbitUwmQ9P8N3MaBUq9DnNb6SRWnuiwb8hNGpump",
+        "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CVHNLbitUwmQ9P8N3MaBUq9DnNb6SRWnuiwb8hNGpump.png",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CVHNLbitUwmQ9P8N3MaBUq9DnNb6SRWnuiwb8hNGpump?timestamp=1742204400000",
+        "description": "The first cat with T-Rex arms",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://www.tiktok.com/@dinocattutu"
+            }
+        ]
     }
 ]
